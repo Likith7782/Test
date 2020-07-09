@@ -5,4 +5,3 @@ Branch isolates your work and it wont mess up with others code
 Head points to the latest commit of the branch in which you are present
 Pull requesst is necessay as it is a type of approval from our team on our changes and asking them to review the code before merging to master
 Revert learning likith
-modifying 2
