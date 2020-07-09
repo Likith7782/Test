@@ -1,2 +1,3 @@
 likith is practising git commands
 Modified
+Fetch command --- pulls the updated files without merging
