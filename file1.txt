@@ -1,3 +1,5 @@
 likith is practising git commands
 Modified
 Fetch command --- pulls the updated files without merging
+Branch isolates your work and it wont mess up with others code
+Head points to the latest commit of the branch in which you are present
